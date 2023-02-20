@@ -1,5 +1,4 @@
 #include <stdio>
-
 /**
  * main - prints alphabets in lower case
  * Return: Always 0
